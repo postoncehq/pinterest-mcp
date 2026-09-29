@@ -14,6 +14,8 @@ Claude: Used the pinterest-blog-to-pins skill. Here are 6 pins, each with its ow
         PostOnce for Mon and Thu at 8:00 PM on your "Sourdough Baking" board.
 ```
 
+Full setup guide with examples: [postonce.to/mcp/pinterest](https://postonce.to/mcp/pinterest)
+
 ## What you can do
 
 | Ask your agent to | How it works |
